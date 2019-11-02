@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="388f0d52-7c79-4984-b609-66977ec58253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../使用代理.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../全国各地城市代码.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../天气查询.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../延迟提交数据.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../有道翻译.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬取-图片猫.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../隐藏.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy_163/spiders/a163.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="20" column="68" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="68" />
+            <state relative-caret-position="435">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -51,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapy_163/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="535">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -104,7 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,12 +133,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Zapier2cloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../supervise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -193,11 +200,13 @@
       <workItem from="1564212075908" duration="50000" />
       <workItem from="1564212919649" duration="1853000" />
       <workItem from="1564218061885" duration="151000" />
+      <workItem from="1568199665669" duration="81000" />
+      <workItem from="1568200038524" duration="3807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9090000" />
+    <option name="totallyTimeSpent" value="12978000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -211,7 +220,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2631871" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26985008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -268,17 +277,10 @@
     <entry file="file://$PROJECT_DIR$/163.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_163/spiders/a163.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="20" column="68" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="68" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_163/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wang163.json">
@@ -298,13 +300,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_163/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/scrapy_163/spiders/a163.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_163/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="535">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
